@@ -1,0 +1,28 @@
+{
+  "name": "sowmya-converter",
+  "version": "1.0.0",
+  "description": "Currency converter from INR to USD",
+  "keywords": [
+    "currency",
+    "converter",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/SowmyaVelugula/sowmya-converter#readme",
+  "bugs": {
+    "url": "https://github.com/SowmyaVelugula/sowmya-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SowmyaVelugula/sowmya-converter.git"
+  },
+  "license": "ISC",
+  "author": "SowmyaVelugula",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
