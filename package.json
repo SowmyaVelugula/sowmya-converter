@@ -19,10 +19,12 @@
   "author": "SowmyaVelugula",
   "type": "commonjs",
   "main": "index.js",
+ 
   "scripts": {
-     "start": "node index.js"
+  "start": "node index.js",
+  "test": "jest"
+},
 
-  },
   "devDependencies": {
     "jest": "^29.7.0"
   },
