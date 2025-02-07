@@ -20,9 +20,13 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+     "start": "node index.js"
+
   },
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
   }
 }
